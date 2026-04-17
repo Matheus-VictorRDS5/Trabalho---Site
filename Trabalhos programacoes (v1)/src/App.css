@@ -1,0 +1,53 @@
+main{
+  width: 100%;
+  height: 100vh;
+  float: left;
+  color: #ffffff;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ background: #000203;
+background: linear-gradient(90deg, rgba(0, 2, 3, 1) 0%, rgba(2, 5, 10, 1) 0%, rgba(28, 49, 156, 1) 100%);
+  font-weight: bold;
+}
+header{
+  width:100%;
+  float: left;
+  background: #000203;
+background: linear-gradient(90deg, rgba(0, 2, 3, 1) 0%, rgba(2, 5, 10, 1) 0%, rgba(28, 49, 156, 1) 100%);
+}
+.fundo{
+  float: left;
+  width: 100%;
+  height: 55vh;
+  background: #000;
+  background-image: url(./assets/testsky.svg);
+}
+.quasefooter{ 
+  float: left;
+  width: 100%;
+  height: 25vh;
+  background: #40b2eb;
+}
+.card{
+  margin-top: 4vh;
+  height: 5.5vh;
+  width: 15%;
+  background: #ffffff;
+  border-radius: 200px;
+  font-size: 0.5rem;
+}
+footer{
+  width: 100%;
+  height: 20.5vh;
+  margin-top: 3.4vh;
+  background: #000203;
+background: linear-gradient(90deg, rgba(0, 2, 3, 1) 0%, rgba(2, 5, 10, 1) 0%, rgba(28, 49, 156, 1) 100%);
+  float: left;
+}
+.icons{
+  background: yellow;
+  height: 3vh;
+  width: 25%;
+  margin-top: 2vh;
+  margin-left: 35%;
+  float: left
+}
